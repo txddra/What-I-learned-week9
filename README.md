@@ -30,7 +30,5 @@
 
 The exception can be a JavaScript String, a Number, a Boolean or an Object:
 
-``
-throw "Too big";    // throw a text
-
+``throw "Too big";    // throw a text
 throw 500;          // throw a number``
